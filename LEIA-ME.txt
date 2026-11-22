@@ -1,0 +1,32 @@
+LUANA PEDROSO — SITE REDESENHADO
+
+COMO ABRIR
+Abra a pasta sobre-mim-luana e dê dois cliques em index.html.
+Se estiver usando o ZIP, extraia todos os arquivos antes de abrir.
+Mantenha index.html, style.css e a pasta Imagens juntos.
+Não precisa instalar nada. O conteúdo e o visual funcionam sem internet;
+os links para os destinos precisam de conexão.
+
+O QUE MUDOU
+- Fundo claro, roxo discreto e menos elementos decorativos.
+- Textos maiores, leitura mais confortável e navegação simples.
+- Fotos com cantos suaves e seções mais organizadas.
+- Layout que se adapta a computador, tablet e celular.
+- Fontes do próprio dispositivo, sem downloads externos.
+- Foco visível ao navegar pelo teclado e opção de pular para o conteúdo.
+
+CONTEÚDO PRESERVADO
+As sete imagens originais, as oito curiosidades, os relatos e os seis
+links externos foram mantidos. O original em Downloads não foi alterado.
+
+VERIFICAÇÃO
+Foram conferidos os arquivos locais, os destinos dos links internos,
+a preservação dos relatos, os links externos e a integridade das imagens.
+A conferência visual no navegador não foi concluída: a ferramenta de
+controle do navegador foi interrompida. A adaptação de layout foi
+implementada no CSS, sem confirmação visual em telas diferentes.
+
+ARQUIVOS
+index.html: conteúdo e estrutura.
+style.css: cores, fontes, espaçamentos e adaptação de tela.
+Imagens: fotos originais.
